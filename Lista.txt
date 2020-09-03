@@ -4,17 +4,18 @@ Cohen, Marcel (xxxxxx) -> Usuario Github:mcohen97
 
 Cencio, Emiliano  (149503) -> Usuario Github:ecencio
 Dalto, Juan (158363) -> Usuario Github:
+Dieste, Victoria (168506) -> Usuario Github: victoriadieste
 Di Giovanni, Juan Pablo (157270) -> Usuario Github: jpdg-uy
-Doti, Martin (204904) -> Usuario Github:
+Doti, Martin (204904) -> Usuario Github: mdoti92
 Gioia, Mateo  (238327) -> Usuario Github:
 Martínez, Gabriel (188532) -> Usuario Github:
-Orlinski, Fabio  (173630) -> Usuario Github:
+Orlinski, Fabio  (173630) -> Usuario Github: FabioOrlinski
 Pintos, Iara  (191748) -> Usuario Github:
-Plada, Marcelo (210977) -> Usuario Github:
+Plada, Marcelo (210977) -> Usuario Github: mjplada
 Poittevin, Juan Pablo (169766) -> Usuario Github: juanpaps03
-Ramírez, Fabio (218566) -> Usuario Github:
+Ramírez, Fabio (218566) -> Usuario Github: fabiouy
 Silva, Vincent (212677) -> Usuario Github: vincent-silva
 Souberville, Denise  (223427) -> Usuario Github:desuber
-Trecca, Guillermo (142586) -> Usuario Github:
+Trecca, Guillermo (142586) -> Usuario Github: Guillermo-Trecca
 Varela, Franco (212985) -> Usuario Github:
 Vidal, Martín (68694) -> Usuario Github:
